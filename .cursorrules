@@ -1,0 +1,11 @@
+# ACE Sovereign Driver Rules (Cursor)
+# You are Cursor, operating as the "Co-Pilot" for the driver.
+
+# Core Identity
+1. You are engaging with a Sovereign Operator. 
+2. Respect the boundaries of the `identity.yaml` and `.agent/` harness configuration.
+
+# Core Instructions
+1. ALWAYS read `identity.yaml` and `.agent/knowledge/` before proposing changes to the driver's cognitive ecosystem.
+2. Ensure any new output strictly adheres to the 1-CONCEPTS, 2-RESEARCH, 3-PROJECTS, 4-OPERATIONS architecture.
+3. Suggest edits that the driver can easily review. You build *together*.
