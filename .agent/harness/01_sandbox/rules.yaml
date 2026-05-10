@@ -1,0 +1,11 @@
+validation_rules:
+  forbidden_patterns:
+    - pattern: "—"
+      message: "Em-dashes are strictly prohibited. Use colons, commas, or parentheses based on context."
+    - pattern: "\n\n\n+"
+      message: "Excessive whitespace detected. Limit to single blank lines between blocks."
+  
+  required_frontmatter:
+    - title
+    - date
+    - type
