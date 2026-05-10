@@ -1,0 +1,8 @@
+memory_rules:
+  db_directory: "../../4-operations/vector_db"
+  embedding_model: "all-MiniLM-L6-v2"
+  collections:
+    - concepts
+    - research
+    - projects
+  max_results: 5
