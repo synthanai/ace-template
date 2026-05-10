@@ -1,0 +1,6 @@
+cron_rules:
+  poll_interval_seconds: 60
+  max_retries: 3
+  queue_directory: "../../4-operations/queues"
+  execute_nightly_rebuild: true
+  nightly_rebuild_hour: 2
