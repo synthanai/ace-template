@@ -1,8 +1,0 @@
-logging_rules:
-  destination: "../../4-operations/telemetry.jsonl"
-  metrics_to_capture:
-    - execution_time
-    - token_usage
-    - model_name
-    - constraint_violations
-  log_retention_days: 30

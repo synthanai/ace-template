@@ -1,5 +1,0 @@
-upgrade_rules:
-  auto_patch_enabled: false
-  audit_telemetry_file: "../../4-operations/telemetry.jsonl"
-  proposal_destination: "../../4-operations/upgrades/"
-  error_threshold_for_audit: 5

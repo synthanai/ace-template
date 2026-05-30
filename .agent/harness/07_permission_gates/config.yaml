@@ -1,9 +1,0 @@
-gate_rules:
-  require_human_approval:
-    - delete_files
-    - mutate_root_folders
-    - push_to_git
-  
-  auto_approve:
-    - write_to_scratch
-    - read_corpus

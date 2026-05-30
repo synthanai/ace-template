@@ -1,9 +1,0 @@
-queue_rules:
-  queue_directory: "../../4-operations/queues"
-  max_concurrent_jobs: 3
-  timeout_seconds: 3600
-  allowed_workflows:
-    - spar
-    - forge
-    - distill
-    - steal
