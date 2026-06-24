@@ -1,0 +1,7 @@
+lifecycle_rules:
+  require_morning_ritual: true
+  max_daily_p0_tasks: 3
+  check_identity_alignment: true
+  enforced_breaks:
+    enabled: true
+    interval_minutes: 90

@@ -1,0 +1,15 @@
+templates:
+  spar:
+    path: "templates/spar_template.md"
+    description: "Multi-agent dialectic debate structure"
+    required_variables: ["topic", "participants"]
+  
+  forge:
+    path: "templates/forge_template.md"
+    description: "Synthesis architecture for combining insights"
+    required_variables: ["inputs", "output_format"]
+  
+  steal:
+    path: "templates/steal_template.md"
+    description: "Intelligence capture protocol"
+    required_variables: ["source", "extraction_keys"]
