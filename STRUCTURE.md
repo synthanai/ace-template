@@ -36,7 +36,7 @@ When the driver forks this repo, the sheer terror and awe of seeing 11 complex P
 
 To prevent technical paralysis, drivers are explicitly told **not** to touch the `.agent/` directory. The Harness is the Body; it executes.
 
-Instead, they govern the **Intent** (The Soul). In Day 2, Movement 3, they open the `identity.yaml` file in the root directory. They change `element: DEFAULT` to their Day 1 tuning spec (e.g., `element: FIRE`). The 11 systems dynamically read this YAML and alter their execution rhythm—Outer Loop speeds up, Context Pruning gets aggressive, Prompts become sharper.
+Instead, they govern the **Intent** (The Soul). In Day 2, Movement 3, they open the `identity.yaml` file in the root directory. They change `element: DEFAULT` to their Day 1 tuning spec (e.g., `element: FIRE`). The 11 systems dynamically read this YAML and alter their execution rhythm, Outer Loop speeds up, Context Pruning gets aggressive, Prompts become sharper.
 
 This delivers the visceral "G-force" of tuning a complex system without requiring them to write a single line of logic.
 
